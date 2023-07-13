@@ -1,0 +1,4 @@
+ this is my third file
+second line
+third line
+staging area change 1
